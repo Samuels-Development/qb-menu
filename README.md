@@ -1,6 +1,11 @@
 ![qb-menu](https://user-images.githubusercontent.com/91661118/139526693-1406c7b1-fb2f-4a3c-be87-c72be59c5e53.png)
 
-This is a reupload of LJs (Project Sloth) qb-menu edit. That assumedly was merged with the main QBCore and then changed.
+# lj-fuel used with QBCore Framework
+Join my Discord laboratory for updates, support, and special early testing!
+<br>
+https://discord.gg/loljoshie (without-vanity url: https://discord.gg/HH6uTcBfew)
+
+Modified version of qb-menu bringing the most accurate NoPixel 3.0 style possible
 
 # Previews
 ### qb-menu
